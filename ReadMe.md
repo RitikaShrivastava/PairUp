@@ -1,0 +1,2 @@
+Hello! PairUp is a web application that pairs people up according to their schedules and interests to pair up and be productive together.
+Participants may choose to work on the same projects or their own projects during this time. The purpose of this project is to provide some accountability to folks who find it hard to focus on tasks with discipline. Research has shown that marking some time in your calendar for tasks helps you allot and dedicate the whole time to completing it, thereby helping you stay focussed. 
